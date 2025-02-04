@@ -24,3 +24,7 @@ yarn-error.log
 
 .DS_store
 /*/**/.DS_store
+.env.example
+.env.example
+.env.example
+.env.example
